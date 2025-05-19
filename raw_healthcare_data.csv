@@ -1,0 +1,26 @@
+﻿patient_id ,age ,gender ,bmi,smoker ,risk_level
+P001,34,Male  ,23.4,yes,Medium
+P002,,female  ,31.2,no,Low
+P003,45,MALE  ,27.5,yes,High
+P004,29,F  ,22,no,Low
+P005,thirty  ,M  ,35.1,yes,Medium
+P006,52,female  ,26.9,no,High
+P007,41,FEMALE  ,28.2,YES,Medium
+P008,38,,40.3,NO,High
+P009,,Male  ,,,Low
+P010,27,Female  ,24.5,no,Medium
+P011,49,Male  ,29.4,Yes,High
+P012,33,F  ,twenty-six,No,Low
+P013,forty  ,female  ,32.1,yes,Medium
+P014,36,MALE  ,25.6,no,Low
+P015,44,F  ,27.7,YES,High
+P016,31,M  ,23.3,,Low
+P017,,Female  ,28,no,Medium
+P018,60,Male  ,,yes,High
+P019,28,F  ,30.9,No,Low
+P020,47,Female  ,31.5,yes,High
+P021,55,Male  ,33,no,Medium
+P022,,Female  ,29.7,yes,Low
+P023,39,M  ,26.4,NO,Medium
+P024,30,male  ,21.1,YES,High
+P025,26,Female  ,,no,Low
